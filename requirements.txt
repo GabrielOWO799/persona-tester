@@ -1,0 +1,8 @@
+streamlit==1.55.0
+langchain==1.2.13
+langchain-core==1.2.21
+langchain-deepseek==1.0.1
+python-dotenv==1.2.2
+tenacity==9.1.4
+reportlab==5.0.0
+pytest==9.1.1
